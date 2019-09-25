@@ -1,4 +1,4 @@
-package www.reader.com.effectivejava.id01chapters;
+package www.reader.com.effectivejava01.id01chapters;
 /**
  * @ClassName R01
  * @Description TODO
