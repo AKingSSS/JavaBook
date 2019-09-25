@@ -1,4 +1,4 @@
-package www.aking.com.EffectiveJava.id01chapters;
+package www.reader.com.redis.id01chapters;
 
 /**
  * @ClassName R01
