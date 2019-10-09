@@ -30,6 +30,7 @@ public class StringDemo {
     public static long test2() {
         long start = System.currentTimeMillis();
         for (int i = 0; i < 100000000; i++) {
+            // 字符串常量池中
             String s = "bikini";
         }
         long end = System.currentTimeMillis();
